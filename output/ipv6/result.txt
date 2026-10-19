@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-10-17 21:26:11,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
+2026-10-20 00:46:07,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
